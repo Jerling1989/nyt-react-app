@@ -1,5 +1,5 @@
+// import
 import React, { Component } from 'react'
-//do I put this in the main or search??
 import helpers from '../utils/helpers';
 
 class Search extends React.Component{

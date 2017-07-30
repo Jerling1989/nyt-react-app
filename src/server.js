@@ -20,7 +20,7 @@ var Article = require("./models/Article");
 // Create a new express app
 var app = express();
 // Sets an initial port. We'll use this later in our listener
-var PORT = process.env.PORT || 3001;
+var PORT = process.env.PORT || 3030;
 
 // Run Morgan for Logging
 app.use(logger("dev"));

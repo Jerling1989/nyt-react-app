@@ -1,3 +1,4 @@
+// Set up mongoose requirement
 var mongoose =  require("mongoose")
 
 var Schema = mongoose.Schema;
